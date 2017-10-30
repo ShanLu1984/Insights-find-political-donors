@@ -31,5 +31,5 @@ This is a repository for Insight Data Engineering Coding Challenge. For more det
 3. For Unix/Linux users, open the terminal, make the current path *your_path/find-political-donors* by using cd command;
 4. Run *run.sh* using command ``sh run.sh'';
 5. Run *run_test.sh* by using command ``sh run_test.sh'';
-6. To test all the tests in insight_tests folder, make the current path "your_path/find-political-donors/insight_tests" by using command ``cd insight_tests'';
+6. To test all the tests in insight_tests folder, make the current path "your_path/find-political-donors/insight_testsuite" by using command ``cd insight_testsuite'';
 7. Run *run_tests.sh* by using command ``sh run_tests.sh''.
