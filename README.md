@@ -39,6 +39,12 @@ This is a repository for Insight Data Engineering Coding Challenge. For more det
 
 ``
 -e [PASS]: test_1 medianvals_by_zip.txt
+``
+
+``
 -e [PASS]: test_1 medianvals_by_date.txt
+``
+
+``
 [Mon Oct 30 13:15:49 PDT 2017] 1 of 1 tests passed
 ``
