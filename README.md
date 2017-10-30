@@ -35,3 +35,10 @@ This is a repository for Insight Data Engineering Coding Challenge. For more det
 1. Run *run_test.sh* by using command `sh run_test.sh`;
 1. To test all the tests in insight_tests folder, make the current path "your_path/find-political-donors/insight_testsuite" by using command `cd insight_testsuite`;
 1. Run *run_tests.sh* by using command `sh run_tests.sh`.
+1. If run successfully, you will see:
+
+``
+-e [PASS]: test_1 medianvals_by_zip.txt
+-e [PASS]: test_1 medianvals_by_date.txt
+[Mon Oct 30 13:15:49 PDT 2017] 1 of 1 tests passed
+``
