@@ -20,7 +20,9 @@ This is a repository for Insight Data Engineering Coding Challenge. For more det
 * insight_testsuie: provided by Insight Data Science
 1. *run_tests.sh* : to if the code has the correct directory structure and the format of the output files are correct
 2. *results.txt* : records of test results
-3. tests folder : used to store all the tests. Each test has a separate folder with an input folder for itcont.txt and an output folder for output corresponding to that test.
+3. *tests folder* : used to store all the tests. Each test has a separate folder with an input folder for itcont.txt and an output folder for output corresponding to that test.
 
+* run.sh: use this shell script to compile and execute *find_political_donors_main.cpp*
+* run_test.sh: use this shell script to compile and execute *find_political_donors_test.cpp*
 
 ## How to run:
