@@ -12,8 +12,15 @@ This is a repository for Insight Data Engineering Coding Challenge. For more det
 4. *find_political_donors_test* : This file is used to test ParseLine function of FindPoliticalDonors class
 
 * input folder: contains *itcont.txt* file, the file provided by Insight for test.
+
 * output folder: contains all the output files.
 1. *medianvals_by_date.txt* : contains a calculated running median, total dollar amount and total number of contributions by recipient and zip code
 2. *medianvals_by_zip.txt* : has the calculated median, total dollar amount and total number of contributions by recipient and date.
+
+* insight_testsuie: provided by Insight Data Science
+1. *run_tests.sh* : to if the code has the correct directory structure and the format of the output files are correct
+2. *results.txt* : records of test results
+3. tests folder : used to store all the tests. Each test has a separate folder with an input folder for itcont.txt and an output folder for output corresponding to that test.
+
 
 ## How to run:
