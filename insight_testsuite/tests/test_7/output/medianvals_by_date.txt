@@ -1,0 +1,11 @@
+aaaaaaaaa|01132017|1|1|1
+aaaaaaaaa|02142017|2|1|2
+aaaaaaaaa|02252017|2|1|2
+aaaaaaaaa|03152017|3|1|3
+aaaaaaaaa|04262017|4|1|4
+aaaaaaaaa|12172017|5|1|5
+bbbbbbbbb|04262016|4|1|4
+bbbbbbbbb|01132017|1|1|1
+bbbbbbbbb|02142017|2|1|2
+bbbbbbbbb|03152017|3|1|3
+bbbbbbbbb|05172017|5|1|5

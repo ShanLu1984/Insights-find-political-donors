@@ -1,0 +1,6 @@
+aaaaaaaaa|12345|1|1|1.01
+aaaaaaaaa|12345|2|2|3.03
+aaaaaaaaa|12345|2|3|6.06
+aaaaaaaaa|12345|3|4|10.1
+aaaaaaaaa|12345|3|5|15.15
+aaaaaaaaa|12345|4|6|21.21

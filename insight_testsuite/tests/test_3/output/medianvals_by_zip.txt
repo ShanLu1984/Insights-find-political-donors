@@ -1,0 +1,11 @@
+aaaaaaaaa|12345|1|1|1
+aaaaaaaaa|12345|2|2|3
+aaaaaaaaa|12345|2|3|6
+aaaaaaaaa|12345|3|4|10
+aaaaaaaaa|12345|3|5|15
+aaaaaaaaa|12345|4|6|21
+aaaaaaaaa|12345|4|7|28
+aaaaaaaaa|12345|5|8|36
+bbbbbbbbb|14567|20|1|20
+aaaaaaaaa|12345|5|9|45
+aaaaaaaaa|12345|6|10|55
