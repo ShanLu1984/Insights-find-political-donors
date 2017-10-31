@@ -4,6 +4,8 @@
 
 This is a repository for Insight Data Engineering Coding Challenge. For more details about the challenge, you may refer to the repository by Insight Data Science: https://github.com/InsightDataScience/find-political-donors.
 
+All the programs are written in C++ and compiled using g++. To compile and run, you should have Linux/Unix environment. If you're currently using Windows, we recommend installing a virtual Unix environment, such as VirtualBox.
+
 ## What's inside:
 ### src folder: 
 This folder ontains all the source files in C++
@@ -39,5 +41,6 @@ This folder contains a shell script provided by Insight Data Science for running
 1. To test all the tests in insight_tests folder, make the current path "your_path/find-political-donors/insight_testsuite" by using command `cd insight_testsuite`;
 1. Run *run_tests.sh* by using command `sh run_tests.sh`.
 1. If run successfully, you will see:
+
 ``[Mon Oct 30 23:50:37 PDT 2017] 9 of 9 tests passed
 ``
