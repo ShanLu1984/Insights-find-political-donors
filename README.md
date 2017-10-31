@@ -18,13 +18,13 @@ This folder contains a single *itcont.txt* file, the input file provided by Insi
 ### output folder: 
 This folder contains all the output files.
 1. *medianvals_by_date.txt* : contains a calculated running median, total dollar amount and total number of contributions by recipient and zip code
-2. *medianvals_by_zip.txt* : has the calculated median, total dollar amount and total number of contributions by recipient and date.
+2. *medianvals_by_zip.txt* : has the calculated median, total dollar amount and total number of contributions by recipient and date
 
 ### insight_testsuie: 
-This folder contains shell script provided by Insight Data Science for testing. In tests folder, test_1 is the case provided by Insight for testing. The other test files from test_2 to test_9 are provided by myself.
+This folder contains a shell script provided by Insight Data Science for running the tests. In tests folder, test_1 is the case provided by Insight for testing. The other test files from test_2 to test_9 are provided by myself.
 1. *run_tests.sh* : to if the code has the correct directory structure and the format of the output files are correct
 2. *results.txt* : records of test results
-3. *tests folder* : used to store all the tests. Each test has a separate folder with an input folder for itcont.txt and an output folder for output corresponding to that test.
+3. *tests folder* : used to store all the tests. Each test has a separate folder with an input folder for itcont.txt and an output folder for output corresponding to that test
 
 ### two shell scripts:
 1. run.sh: use this shell script to compile and execute *find_political_donors_main.cpp*
