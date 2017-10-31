@@ -10,7 +10,7 @@ This folder ontains all the source files in C++
 1. *find_political_donors_main.cpp* : this file contains the main function of the find_political_donors program.
 2. *find_political_donors.cpp* : this file defines the classes and functions.
 3. *find_political_donors.h* : this file declares the classes and functions.
-4. *find_political_donors_test* : this file is used to test *ParseLine* function of *FindPoliticalDonors* class.
+4. *find_political_donors_test* : this file is an unit test file, it is used to test *ParseLine* function of *FindPoliticalDonors* class.
 
 ### input folder: 
 This folder contains a single *itcont.txt* file, the input file provided by Insight for test.
