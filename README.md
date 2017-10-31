@@ -5,7 +5,7 @@
 This is a repository for Insight Data Engineering Coding Challenge. For more details about the challenge, you may refer to the repository by Insight Data Science: https://github.com/InsightDataScience/find-political-donors.
 
 ## What's inside:
-### src folder: contains all the source files of C++
+### src folder: contains all the source files in C++
 1. *find_political_donors_main.cpp* : the main function of the find_political_donors program
 2. *find_political_donors.cpp* : This file defines the classes and functions
 3. *find_political_donors.h* : his file declares the classes and functions
@@ -30,7 +30,7 @@ This is a repository for Insight Data Engineering Coding Challenge. For more det
 1. Clone and download the whole repository;
 1. Put all the files under a folder, such as name "find-political-donors";
 1. For Unix/Linux users, open the terminal, make the current path *your_path/find-political-donors* by using cd command;
-1. Change the input file or output file name in *run.sh*. 
+1. You can change the input file or output file names in *run.sh*. 
 1. Run *run.sh* using command `sh run.sh`;
 1. Run *run_test.sh* by using command `sh run_test.sh`;
 1. To test all the tests in insight_tests folder, make the current path "your_path/find-political-donors/insight_testsuite" by using command `cd insight_testsuite`;
