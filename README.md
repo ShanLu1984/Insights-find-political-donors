@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-This is a repository for Insight Data Engineering Coding Challenge. For more details, you may refer to the repository by Insight Data Science: https://github.com/InsightDataScience/find-political-donors.
+This is a repository for Insight Data Engineering Coding Challenge. For more details about the challenge, you may refer to the repository by Insight Data Science: https://github.com/InsightDataScience/find-political-donors.
 
 ## What's inside:
 ### src folder: contains all the source files of C++
