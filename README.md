@@ -22,7 +22,7 @@ This folder contains all the output files.
 
 ### insight_testsuie: 
 This folder contains a shell script provided by Insight Data Science for running the tests. In tests folder, test_1 is the case provided by Insight for testing. The other test files from test_2 to test_9 are provided by myself.
-1. *run_tests.sh* : a shell script to test if the code has the correct directory structure and the format of the output files are correct
+1. *run_tests.sh* : a shell script to test if the code has the correct directory structure and the format of the output files are correct.
 2. *tests folder* : used to store inputs and outputs of all the tests. Each test has a separate folder with an input folder for itcont.txt and an output folder for output corresponding to that test.
 
 ### two shell scripts:
