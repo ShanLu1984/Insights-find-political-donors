@@ -9,7 +9,7 @@ This is a repository for Insight Data Engineering Coding Challenge. For more det
 1. *find_political_donors_main.cpp* : this file contains the main function of the find_political_donors program
 2. *find_political_donors.cpp* : this file defines the classes and functions
 3. *find_political_donors.h* : this file declares the classes and functions
-4. *find_political_donors_test* : this file is used to test ParseLine function of FindPoliticalDonors class
+4. *find_political_donors_test* : this file is used to test *ParseLine* function of FindPoliticalDonors class
 
 ### input folder: contains *itcont.txt* file, the file provided by Insight for test.
 
