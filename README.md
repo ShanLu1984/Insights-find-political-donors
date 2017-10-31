@@ -39,15 +39,5 @@ This folder contains a shell script provided by Insight Data Science for running
 1. To test all the tests in insight_tests folder, make the current path "your_path/find-political-donors/insight_testsuite" by using command `cd insight_testsuite`;
 1. Run *run_tests.sh* by using command `sh run_tests.sh`.
 1. If run successfully, you will see:
-
-``
--e [PASS]: test_1 medianvals_by_zip.txt
-``
-
-``
--e [PASS]: test_1 medianvals_by_date.txt
-``
-
-``
-[Mon Oct 30 13:15:49 PDT 2017] 1 of 1 tests passed
+``[Mon Oct 30 23:50:37 PDT 2017] 9 of 9 tests passed
 ``
