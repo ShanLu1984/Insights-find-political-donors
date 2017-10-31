@@ -5,19 +5,23 @@
 This is a repository for Insight Data Engineering Coding Challenge. For more details about the challenge, you may refer to the repository by Insight Data Science: https://github.com/InsightDataScience/find-political-donors.
 
 ## What's inside:
-### src folder: contains all the source files in C++
+### src folder: 
+This folder ontains all the source files in C++
 1. *find_political_donors_main.cpp* : this file contains the main function of the find_political_donors program
 2. *find_political_donors.cpp* : this file defines the classes and functions
 3. *find_political_donors.h* : this file declares the classes and functions
 4. *find_political_donors_test* : this file is used to test *ParseLine* function of *FindPoliticalDonors* class
 
-### input folder: contains *itcont.txt* file, the file provided by Insight for test.
+### input folder: 
+This folder contains a single *itcont.txt* file, the input file provided by Insight for test.
 
-### output folder: contains all the output files.
+### output folder: 
+This folder contains all the output files.
 1. *medianvals_by_date.txt* : contains a calculated running median, total dollar amount and total number of contributions by recipient and zip code
 2. *medianvals_by_zip.txt* : has the calculated median, total dollar amount and total number of contributions by recipient and date.
 
-### insight_testsuie: provided by Insight Data Science
+### insight_testsuie: 
+This folder contains shell script provided by Insight Data Science for testing. In tests folder, test_1 is the case provided by Insight for testing. The other test files from test_2 to test_9 are provided by myself.
 1. *run_tests.sh* : to if the code has the correct directory structure and the format of the output files are correct
 2. *results.txt* : records of test results
 3. *tests folder* : used to store all the tests. Each test has a separate folder with an input folder for itcont.txt and an output folder for output corresponding to that test.
